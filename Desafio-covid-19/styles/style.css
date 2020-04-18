@@ -77,20 +77,44 @@ header img{
 
 .noticia{
 
-	width: 300px;
-	height: 300px;
+	width: 400px;
+	height: 360px;
 
 	flex: 300px;
 
-	margin: 32px;
+	margin: 64px 32px;
 
-	background-color: #5c103c;
-	border: 2px solid black;
+	background-color: #333;
+	
 
 	display: inline-block;
-	overflow: hidden;
+	overflow: auto;
 
 	box-shadow: 10px 10px 5px #888888;
+
+	text-align: center;
+}
+
+.noticia-descricao{
+	color: white;
+}
+
+.noticia-descricao a{
+	width: 100%;
+	text-decoration: none;
+	color: white;
+}
+
+.noticia-descricao a img{
+	width: 100%;
+	height: 250px;
+}
+
+.noticiaDestaque{
+	color: white;
+}
+.noticiaDestaque a{
+	color: white;
 }
 
 /* FOOTER */
@@ -178,6 +202,11 @@ footer a{
 	padding-top: 48px;
 	padding-left: 32px;
 
-
 }
+
+/* RESPONSIVE */
+
+@media screen and (max-width: 940px){
+	
+ }
 
