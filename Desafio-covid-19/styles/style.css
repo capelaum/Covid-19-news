@@ -9,13 +9,14 @@ body {
 	font-family: Arial;
 	font-size: 14px;
 
-	background-color: #CCC;
+	background-color: #EEE;
 }
 
 /* HEADER */
 
 header{
 	text-align: center;
+	color: #961d66
 }
 
 header img{
@@ -149,9 +150,25 @@ footer a{
 /* SAIBA MAIS */
 
 .saibamais-container{
-	text-align: center;
+	
+	font-size: 18px;
+	padding: 48px;
+	color: #961d66;
 	
 }
+.not1{
+	margin-top: 0;
+	
+}
+.saibamais-container a{
+	font-weight: bold;
+
+	color: #961d66;
+	background-color: #FFF;
+	font-size: 18px;
+}
+
+
 /* CONTATO */
 
 .form-container{
@@ -199,9 +216,34 @@ footer a{
 
 .descricao{
 
+	text-align: justify;
 	padding-top: 48px;
 	padding-left: 32px;
 
+}
+
+.descricao p{
+	text-align: justify;
+}
+
+.descricao a{
+	font-size: 20px;
+
+	color: #961d66;
+	text-decoration: none;
+}
+
+.descricao a i{
+	width: 26px;
+	height: 26px;
+
+	padding-top: 4px;
+	text-align: center;
+
+	background-color: #FFF;
+	color: #961d66;
+
+	text-decoration: none;
 }
 
 /* RESPONSIVE */
