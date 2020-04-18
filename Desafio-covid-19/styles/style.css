@@ -172,38 +172,21 @@ footer a{
 
 
 /* CONTATO */
-
-.form-container{
-	font-size: 18px;
-	font-weight: bold;
-	text-align: center;
-	visibility: hidden;
-}
-
-.button{
-	margin-bottom: 32px;
-
-	border-radius: 0.8px 1px 0.7;
-}
-
-.button:hover{
-	color: white;
-	background-color: pink;
+#banner{
+    background-image: url('https://www.febrasgo.org.br/media/k2/items/cache/7586bcdd7a745d843a3897512742ccdb_XL.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
 }
 
 .google-form{
 	
-	margin-top: 48px;
+
+	padding-top: 64px;
 	text-align: center;
 }
 
-.bg-img{
-	position: absolute;
 
-	width: 100%;
-	height: 100%;
-	z-index: -1;
-}
 
 /* SOBRE */
 
