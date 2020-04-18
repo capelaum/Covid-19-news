@@ -24,45 +24,47 @@ header img{
 }
 
 .menu{
-	display: flex;
-
+    display: flex;
+	
 	width: 100%;
 	height: 30px;
 	
+	align-items: center;
 	justify-content: center;
 
+	
 	background-color: #333;
 	color: white;
 }
 
-.menu ul{
-	display: flex;
-	margin: 0;
+nav ul,
+nav li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav a{
 	
-	padding: 0 64px;
-	align-items: center;
+	display: block;
 
-	list-style: none;
-}
-
-.menu li{
-	padding: 0 72px;
-}
-
-.menu li .ativo{
-	color:rgb(57, 143, 201);
-}
-
-
-.menu a {
-	font-size: 16px;
-	text-decoration: none;
+	margin: 0 60px;
+	padding: 6.5px;
 	
-	width: 18px;
-	color: 	white;
+    text-decoration: none;
+	text-transform: uppercase;
+	
+    color: #727272;
+}
 
-	margin-left: 9px;
-	margin-right: 9px;
+nav .active a, 
+nav a:hover{
+    color: white;
+    background-color: #961d66;
 }
 
 /* NOTICIAS */
