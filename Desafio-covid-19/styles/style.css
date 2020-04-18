@@ -31,7 +31,6 @@ header img{
 	
 	align-items: center;
 	justify-content: center;
-
 	
 	background-color: #333;
 	color: white;
@@ -49,7 +48,6 @@ nav ul{
 }
 
 nav a{
-	
 	display: block;
 
 	margin: 0 60px;
@@ -70,7 +68,6 @@ nav a:hover{
 /* NOTICIAS */
 
 .noticias-container{
-
 	display: flex;
 	flex-wrap: wrap;
 	
@@ -88,7 +85,6 @@ nav a:hover{
 	margin: 64px 32px;
 
 	background-color: #333;
-	
 
 	display: inline-block;
 	overflow: auto;
@@ -117,14 +113,13 @@ nav a:hover{
 	color: white;
 }
 .noticiaDestaque a{
+	text-decoration: none;
 	color: white;
 }
 
 /* FOOTER */
 
 footer{
-	
-	
 	width: 100%;
 	position: absolute;
 	
@@ -152,7 +147,6 @@ footer a{
 /* SAIBA MAIS */
 
 .saibamais-container{
-	
 	font-size: 18px;
 	padding: 48px;
 	color: #961d66;
@@ -166,12 +160,12 @@ footer a{
 	font-weight: bold;
 
 	color: #961d66;
-	background-color: #FFF;
+	background-color: #AAA;
 	font-size: 18px;
 }
 
-
 /* CONTATO */
+
 #banner{
     background-image: url('https://www.febrasgo.org.br/media/k2/items/cache/7586bcdd7a745d843a3897512742ccdb_XL.jpg');
     background-position: center;
@@ -180,13 +174,9 @@ footer a{
 }
 
 .google-form{
-	
-
 	padding-top: 64px;
 	text-align: center;
 }
-
-
 
 /* SOBRE */
 
@@ -202,11 +192,9 @@ footer a{
 	border-radius: 50%;
 }
 .descricao{
-
 	text-align: justify;
 	padding-top: 48px;
 	padding-left: 32px;
-
 }
 
 .descricao p{
@@ -231,7 +219,7 @@ footer a{
 	padding-top: 4px;
 	text-align: center;
 
-	background-color: #FFF;
+	background-color: #333;
 	color: #961d66;
 
 	text-decoration: none;
