@@ -206,7 +206,6 @@ footer a{
 /* SOBRE */
 
 .sobre{
-
 	padding: 48px;
 	justify-content: center;
 	display:flex;
@@ -231,6 +230,10 @@ footer a{
 
 	color: #961d66;
 	text-decoration: none;
+}
+
+.descricao a:hover{
+	text-decoration: underline;
 }
 
 .descricao a i{
