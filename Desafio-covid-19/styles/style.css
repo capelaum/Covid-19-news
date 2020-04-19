@@ -20,6 +20,7 @@ header{
 }
 
 header img{
+	width: 100%;
 	padding-top: 30px;
 }
 
@@ -177,8 +178,14 @@ footer a{
 }
 
 .google-form{
-	padding-top: 64px;
+	
+	padding: 64px 0;
 	text-align: center;
+}
+
+.google-form iframe{
+	width: 640px;
+	height: 800px;
 }
 
 /* SOBRE */
@@ -228,7 +235,6 @@ footer a{
 	text-decoration: none;
 }
 
-
 /* RESPONSIVE */
 
 @media screen and (max-width: 740px){
@@ -240,9 +246,10 @@ footer a{
 		width: 100%;
 
 		justify-content: left;
-		
+
 		align-items: unset;
 		height: auto;
+		margin-bottom: 90px;
 	}
 	
 	nav ul{
@@ -267,10 +274,18 @@ footer a{
 		
 		color: #727272;
 	}
-	
-	.noticias-container{
-		margin-top: 90px;
+
+	.google-form iframe{
+		width: 400px;
+		height: 864px;
 	}
 
 }
 
+@media screen and (max-width: 400px){
+	.google-form iframe{
+
+		width: 300px;
+		height: 864px;
+	}
+}
