@@ -20,7 +20,7 @@ header{
 }
 
 header img{
-	width: 100%;
+	width: 400px;
 	padding-top: 30px;
 }
 
@@ -237,8 +237,8 @@ footer a{
 
 /* RESPONSIVE */
 
-@media screen and (max-width: 740px){
-	 
+@media screen and (max-width: 760px){
+
 	.menu{
 		display: flex;
 		flex-direction: column;
@@ -279,12 +279,16 @@ footer a{
 		width: 400px;
 		height: 864px;
 	}
-
 }
 
 @media screen and (max-width: 400px){
-	.google-form iframe{
 
+	header img{
+		width: 300px;
+		padding-top: 30px;
+	}
+
+	.google-form iframe{
 		width: 300px;
 		height: 864px;
 	}
