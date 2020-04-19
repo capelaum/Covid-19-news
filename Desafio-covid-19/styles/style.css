@@ -64,7 +64,7 @@ nav .active a,
 nav a:hover{
     color: white;
 	background-color: #961d66;
-	cursor: default;
+	cursor: pointer;
 }
 
 /* NOTICIAS */
