@@ -11,9 +11,13 @@
 </h2>
 
 
-:point_right: [Para acessar o Site Clique Aqui][2] :point_left:
+<h1 align="center">
+  <a href="https://covid-19-daily-status.netlify.app/index.html" target="_blank">
+    :point_right: Para acessar o Site Clique Aqui
+  </a>
+</h1>
 
 ## Hospedado pela [Netlify][1]
 
 [1]: https://www.netlify.com/
-[2]: https://covid-19-daily-status.netlify.app/index.html
+
