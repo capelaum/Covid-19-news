@@ -5,7 +5,9 @@
   </a>
 </h1>
 
+<h2 align="center" style="color: #ff5E84;">
+  <b>:white_check_mark: Desafio: Landing Page de Notícias do COVID-19 - Gama Academy (Hiring Coders) </b>
+</h2>
 
-<b align="center" >Desafio: Landing Page de Notícias do COVID-19 - Gama Academy (Hiring Coders)</b> :white_check_mark:
 
 
