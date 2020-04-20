@@ -7,11 +7,11 @@
 </h1>
 
 <h2 align="center">
-  <b>:white_check_mark: Desafio: Landing Page de Notícias do COVID-19 - Gama Academy (Hiring Coders) </b>
+  <b>Desafio: Landing Page de Notícias do COVID-19 - Gama Academy (Hiring Coders) </b>
 </h2>
 
 
-                    :point_right: [Para acessar o Site Clique Aqui][2] :point_left:
+:point_right: [Para acessar o Site Clique Aqui][2] :point_left:
 
 ## Hospedado pela [Netlify][1]
 
