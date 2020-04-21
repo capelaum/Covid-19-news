@@ -1,10 +1,10 @@
 <h1 align="center"> Covid 19 News Page</h1>
 
-<h1 align="center">
+<h4 align="center">
   <a href="#">
     <img src="Desafio-covid-19/images/logo.png" alt="Covid-19 logo">
   </a>
-</h1>
+</h4>
 
 <h2 align="center">
   <b>Desafio: Landing Page de Notícias do COVID-19 - Gama Academy (Hiring Coders) </b>
