@@ -8,7 +8,6 @@
 
 <h2 align="center">
     <b>
-        Desafio: Landing Page de Notícias do COVID-19 - Gama Academy (Hiring Coders) <br>
         Data de Entrega: 19/04/2020
     </b>
 </h2>
