@@ -2,7 +2,7 @@
 
 <h4 align="center">
     <a href="#">
-        <img src="../Desafio-covid-19/images/logo.png" alt="Covid-19 logo" width="300px">
+        <img src="logo.png" alt="Covid-19-logo" width="300px">
     </a>
 </h4>
 
