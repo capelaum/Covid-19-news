@@ -2,14 +2,14 @@
 
 <h4 align="center">
     <a href="#">
-        <img src="Desafio-covid-19/images/logo.png" alt="Covid-19 logo">
+        <img src="../Desafio-covid-19/images/logo.png" alt="Covid-19 logo">
     </a>
 </h4>
 
 <h2 align="center">
     <b>
         Desafio: Landing Page de Notícias do COVID-19 - Gama Academy (Hiring Coders) <br>
-        Data Entrega: 19/04/2020
+        Data de Entrega: 19/04/2020
     </b>
 </h2>
 
