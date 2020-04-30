@@ -12,11 +12,11 @@
     </b>
 </h2>
 
-Para acessar o site:
+<h2 align="center">Para acessar o site:</h2>
 
 <h2 align="center">
     <a href="https://covid-19-daily-status.netlify.app/index.html" target="_blank">
-        clique aqui 
+        => clique aqui <=
     </a>
     <br><br>
     Hospedado pela
